@@ -1,0 +1,1931 @@
+﻿user_id;tempat_wisata;rating
+1;Gunung Argopuro;5
+1;Gunung Papuma;5
+1;Air Terjun Tancak;5
+1;Teluk Love;5
+1;Trans Studio Mini;5
+1;Gas Adventure Land;5
+1;Kidzoona Lipoo Plaza;5
+1;Jember Mini ZOO;4
+1;Gudeg Lumintu;4
+1;Cafe Kolong;5
+1;Lippo Plaza;5
+1;Jember Roxy Square;5
+1;Makam KH Muhammad Shidiq;5
+1;Masjid Jami' Al-Baitul Amien;5
+1;Masjid Muhammad Cheng Hoo;5
+1;Dira Kencong Shopping Center;5
+1;Rumah Batik Rolla;5
+1;Transmart Jember;5
+1;Jember Town Square;5
+2;Air Terjun Tancak;5
+2;Wisata Pinus Sidomulyo;5
+2;Teluk Love;5
+2;Trans Studio Mini;3
+2;Gas Adventure Land;3
+2;Cafe Kolong;2,407407407
+2;Restoran Pawon Sari;3
+2;Alun-alun Jember Foodcourt;2,382716049
+2;Pura Mandara Giri Semeru Agung;5
+2;Masjid Jami' Al-Baitul Amien;5
+2;Masjid Muhammad Cheng Hoo;5
+2;Transmart Jember;4
+2;Jember Town Square;4,37037037
+3;Gunung Argopuro;2
+3;Gunung Papuma;2,975308642
+3;Kebun Teh Gunung Gambir;3,814814815
+3;Trans Studio Mini;3,975308642
+3;Gas Adventure Land;2,975308642
+3;Kidzoona Lipoo Plaza;4,172839506
+3;Jember Mini ZOO;4,802469136
+3;Gudeg Lumintu;4,617283951
+3;Cafe Kolong;3,802469136
+3;Pura Mandara Giri Semeru Agung;3,222222222
+3;Makam Habib Sholeh Tanggul;2,802469136
+3;Lippo Plaza;2,580246914
+3;Jember Roxy Square;3,172839506
+3;Masjid Muhammad Cheng Hoo;3,604938272
+3;Dira Kencong Shopping Center;4,012345679
+3;Rumah Batik Rolla;3,580246914
+3;Transmart Jember;4,395061728
+3;Jember Town Square;4,012345679
+4;Gunung Argopuro;3,209876543
+4;Gunung Papuma;3
+4;Wisata Pinus Sidomulyo;3
+4;Teluk Love;3
+4;Trans Studio Mini;3
+4;Gas Adventure Land;3
+4;Kidzoona Lipoo Plaza;3
+4;Jember Mini ZOO;3
+4;Pura Mandara Giri Semeru Agung;3
+4;Makam Habib Sholeh Tanggul;3
+4;Lippo Plaza;3
+4;Transmart Jember;3
+4;Jember Town Square;3
+5;Gunung Argopuro;3,790123457
+5;Cafe Kolong;3,62962963
+5;Restoran Pawon Sari;4,395061728
+5;Alun-alun Jember Foodcourt;3,172839506
+5;Pura Mandara Giri Semeru Agung;3
+5;Makam Habib Sholeh Tanggul;3,259259259
+5;Lippo Plaza;3,37037037
+5;Jember Roxy Square;3,777777778
+5;Makam KH Muhammad Shidiq;4
+5;Rumah Batik Rolla;3,24691358
+5;Transmart Jember;4,592592593
+5;Jember Town Square;3,37037037
+6;Gunung Papuma;5
+6;Kebun Teh Gunung Gambir;5
+6;Air Terjun Tancak;5
+6;Trans Studio Mini;5
+6;Gas Adventure Land;5
+6;Kidzoona Lipoo Plaza;5
+6;Jember Mini ZOO;5
+6;Gudeg Lumintu;5
+6;Cafe Kolong;5
+6;Restoran Pawon Sari;5
+6;Lippo Plaza;5
+6;Jember Roxy Square;5
+6;Makam KH Muhammad Shidiq;5
+6;Masjid Jami' Al-Baitul Amien;5
+6;Rumah Batik Rolla;5
+6;Transmart Jember;5
+6;Jember Town Square;5
+7;Gunung Argopuro;2,987654321
+7;Gunung Papuma;3,172839506
+7;Kebun Teh Gunung Gambir;3,839506173
+7;Trans Studio Mini;3,185185185
+7;Gas Adventure Land;2,185185185
+7;Kidzoona Lipoo Plaza;3,987654321
+7;Alun-alun Jember Foodcourt;3,185185185
+7;Pura Mandara Giri Semeru Agung;4,592592593
+7;Makam Habib Sholeh Tanggul;4,197530864
+7;Lippo Plaza;3,790123457
+7;Jember Roxy Square;3,555555556
+7;Masjid Muhammad Cheng Hoo;3,802469136
+7;Transmart Jember;4,234567901
+7;Jember Town Square;3,987654321
+8;Gunung Argopuro;3,209876543
+8;Teluk Love;3,209876543
+8;Trans Studio Mini;3
+8;Gas Adventure Land;3
+8;Kidzoona Lipoo Plaza;3
+8;Cafe Kolong;3
+8;Restoran Pawon Sari;3
+8;Alun-alun Jember Foodcourt;3
+8;Pura Mandara Giri Semeru Agung;3
+8;Jember Roxy Square;3
+8;Makam KH Muhammad Shidiq;3
+8;Masjid Jami' Al-Baitul Amien;3
+8;Masjid Muhammad Cheng Hoo;3
+8;Transmart Jember;3
+8;Jember Town Square;3
+9;Gunung Argopuro;4,419753086
+9;Wisata Pinus Sidomulyo;5
+9;Teluk Love;4,604938272
+9;Trans Studio Mini;4,790123457
+9;Gas Adventure Land;4,197530864
+9;Kidzoona Lipoo Plaza;5
+9;Jember Mini ZOO;5
+9;Gudeg Lumintu;5
+9;Cafe Kolong;4,209876543
+9;Restoran Pawon Sari;5
+9;Alun-alun Jember Foodcourt;4,790123457
+9;Pura Mandara Giri Semeru Agung;4,802469136
+9;Makam Habib Sholeh Tanggul;4,419753086
+9;Lippo Plaza;4,604938272
+9;Jember Roxy Square;5
+9;Makam KH Muhammad Shidiq;5
+9;Masjid Jami' Al-Baitul Amien;5
+9;Masjid Muhammad Cheng Hoo;5
+9;Dira Kencong Shopping Center;5
+9;Rumah Batik Rolla;5
+9;Transmart Jember;4,382716049
+9;Jember Town Square;5
+10;Gunung Argopuro;4,024691358
+10;Gunung Papuma;4,419753086
+10;Kebun Teh Gunung Gambir;4,209876543
+10;Air Terjun Tancak;3,827160494
+10;Wisata Pinus Sidomulyo;3,802469136
+10;Teluk Love;4,209876543
+10;Trans Studio Mini;4,185185185
+10;Gas Adventure Land;4,172839506
+10;Kidzoona Lipoo Plaza;4,790123457
+10;Jember Mini ZOO;4,395061728
+10;Gudeg Lumintu;3,975308642
+10;Cafe Kolong;4,209876543
+10;Restoran Pawon Sari;4,802469136
+10;Alun-alun Jember Foodcourt;4,592592593
+10;Pura Mandara Giri Semeru Agung;3,790123457
+10;Makam Habib Sholeh Tanggul;4,012345679
+10;Lippo Plaza;4,802469136
+10;Jember Roxy Square;4,419753086
+10;Makam KH Muhammad Shidiq;4,209876543
+10;Masjid Jami' Al-Baitul Amien;4,419753086
+10;Masjid Muhammad Cheng Hoo;4,012345679
+10;Dira Kencong Shopping Center;4,617283951
+10;Rumah Batik Rolla;4,382716049
+10;Transmart Jember;4,209876543
+10;Jember Town Square;4,419753086
+11;Gunung Argopuro;4
+11;Gunung Papuma;5
+11;Kebun Teh Gunung Gambir;4
+11;Air Terjun Tancak;4
+11;Wisata Pinus Sidomulyo;4
+11;Teluk Love;4
+11;Trans Studio Mini;3
+11;Gas Adventure Land;2
+11;Kidzoona Lipoo Plaza;3
+11;Jember Mini ZOO;3
+11;Gudeg Lumintu;5
+11;Cafe Kolong;4
+11;Restoran Pawon Sari;3
+11;Alun-alun Jember Foodcourt;3
+11;Pura Mandara Giri Semeru Agung;4
+11;Makam Habib Sholeh Tanggul;3
+11;Lippo Plaza;3
+11;Jember Roxy Square;3
+11;Makam KH Muhammad Shidiq;3
+11;Masjid Jami' Al-Baitul Amien;3
+11;Masjid Muhammad Cheng Hoo;3
+11;Dira Kencong Shopping Center;3
+11;Rumah Batik Rolla;3
+11;Transmart Jember;3
+11;Jember Town Square;3
+12;Gunung Argopuro;3,407407407
+12;Gunung Papuma;3,407407407
+12;Kebun Teh Gunung Gambir;3,604938272
+12;Air Terjun Tancak;3,617283951
+12;Wisata Pinus Sidomulyo;4,382716049
+12;Teluk Love;5
+12;Trans Studio Mini;3
+12;Gas Adventure Land;3,839506173
+12;Kidzoona Lipoo Plaza;5
+12;Jember Mini ZOO;5
+12;Gudeg Lumintu;3
+12;Cafe Kolong;3,839506173
+12;Restoran Pawon Sari;3,814814815
+12;Alun-alun Jember Foodcourt;3
+12;Makam KH Muhammad Shidiq;4,185185185
+12;Masjid Jami' Al-Baitul Amien;4,395061728
+12;Masjid Muhammad Cheng Hoo;5
+12;Dira Kencong Shopping Center;3
+12;Rumah Batik Rolla;3,839506173
+12;Transmart Jember;3,839506173
+12;Jember Town Square;3,839506173
+13;Gunung Argopuro;3
+13;Gunung Papuma;3,024691358
+13;Kebun Teh Gunung Gambir;3,395061728
+13;Air Terjun Tancak;3,209876543
+13;Wisata Pinus Sidomulyo;2,987654321
+13;Gas Adventure Land;3,432098765
+13;Kidzoona Lipoo Plaza;2,802469136
+13;Jember Mini ZOO;2,790123457
+13;Restoran Pawon Sari;3,395061728
+13;Alun-alun Jember Foodcourt;3,407407407
+13;Pura Mandara Giri Semeru Agung;3,617283951
+13;Makam Habib Sholeh Tanggul;3,802469136
+13;Masjid Jami' Al-Baitul Amien;4,395061728
+13;Masjid Muhammad Cheng Hoo;4
+13;Jember Town Square;4,209876543
+14;Gunung Argopuro;3
+14;Gunung Papuma;4,209876543
+14;Kebun Teh Gunung Gambir;4
+14;Teluk Love;3,802469136
+14;Trans Studio Mini;5
+14;Gas Adventure Land;4,407407407
+14;Cafe Kolong;4,592592593
+14;Restoran Pawon Sari;4,580246914
+14;Alun-alun Jember Foodcourt;4,592592593
+14;Lippo Plaza;4,592592593
+14;Jember Roxy Square;4,592592593
+14;Dira Kencong Shopping Center;4,382716049
+14;Rumah Batik Rolla;4,197530864
+14;Jember Town Square;4,592592593
+15;Gunung Papuma;3,604938272
+15;Kebun Teh Gunung Gambir;3,592592593
+15;Teluk Love;3,814814815
+15;Trans Studio Mini;3,209876543
+15;Jember Mini ZOO;3,395061728
+15;Gudeg Lumintu;3,382716049
+15;Restoran Pawon Sari;3,814814815
+15;Alun-alun Jember Foodcourt;3,592592593
+15;Lippo Plaza;3,592592593
+15;Makam KH Muhammad Shidiq;3,395061728
+15;Masjid Muhammad Cheng Hoo;3,814814815
+15;Rumah Batik Rolla;3,592592593
+15;Jember Town Square;3,592592593
+16;Gunung Argopuro;1,62962963
+16;Kebun Teh Gunung Gambir;1,419753086
+16;Wisata Pinus Sidomulyo;1
+16;Gas Adventure Land;2,382716049
+16;Kidzoona Lipoo Plaza;2,790123457
+16;Cafe Kolong;3,209876543
+16;Restoran Pawon Sari;3
+16;Pura Mandara Giri Semeru Agung;3,012345679
+16;Makam Habib Sholeh Tanggul;3,209876543
+16;Lippo Plaza;3,209876543
+16;Jember Roxy Square;3,209876543
+16;Makam KH Muhammad Shidiq;2,802469136
+16;Masjid Jami' Al-Baitul Amien;2,802469136
+16;Masjid Muhammad Cheng Hoo;2,419753086
+16;Dira Kencong Shopping Center;2,185185185
+16;Transmart Jember;3,407407407
+16;Jember Town Square;3
+17;Gunung Argopuro;3,024691358
+17;Gunung Papuma;4,407407407
+17;Wisata Pinus Sidomulyo;3,592592593
+17;Teluk Love;4,209876543
+17;Kidzoona Lipoo Plaza;4,382716049
+17;Jember Mini ZOO;4,580246914
+17;Cafe Kolong;4,580246914
+17;Pura Mandara Giri Semeru Agung;5
+17;Makam Habib Sholeh Tanggul;5
+17;Lippo Plaza;4
+17;Makam KH Muhammad Shidiq;4,407407407
+17;Dira Kencong Shopping Center;5
+17;Rumah Batik Rolla;5
+17;Jember Town Square;5
+18;Gunung Papuma;4,802469136
+18;Kebun Teh Gunung Gambir;5
+18;Air Terjun Tancak;5
+18;Wisata Pinus Sidomulyo;5
+18;Cafe Kolong;5
+18;Alun-alun Jember Foodcourt;5
+18;Pura Mandara Giri Semeru Agung;5
+18;Makam Habib Sholeh Tanggul;5
+18;Jember Roxy Square;3
+18;Masjid Jami' Al-Baitul Amien;5
+18;Masjid Muhammad Cheng Hoo;5
+18;Transmart Jember;2,987654321
+18;Jember Town Square;5
+19;Gunung Papuma;3,62962963
+19;Kebun Teh Gunung Gambir;3,407407407
+19;Wisata Pinus Sidomulyo;3,790123457
+19;Teluk Love;3,419753086
+19;Trans Studio Mini;3,777777778
+19;Kidzoona Lipoo Plaza;3,024691358
+19;Jember Mini ZOO;2,62962963
+19;Gudeg Lumintu;3,617283951
+19;Restoran Pawon Sari;3,592592593
+19;Pura Mandara Giri Semeru Agung;3,382716049
+19;Lippo Plaza;4,012345679
+19;Makam KH Muhammad Shidiq;4,790123457
+19;Masjid Jami' Al-Baitul Amien;4,419753086
+19;Masjid Muhammad Cheng Hoo;4,814814815
+19;Dira Kencong Shopping Center;4,814814815
+19;Transmart Jember;4,604938272
+19;Jember Town Square;4,802469136
+20;Gunung Argopuro;2,790123457
+20;Kebun Teh Gunung Gambir;3,209876543
+20;Air Terjun Tancak;3,209876543
+20;Wisata Pinus Sidomulyo;3,209876543
+20;Teluk Love;3,209876543
+20;Trans Studio Mini;2,790123457
+20;Kidzoona Lipoo Plaza;2,790123457
+20;Cafe Kolong;2,790123457
+20;Makam Habib Sholeh Tanggul;3,209876543
+20;Masjid Jami' Al-Baitul Amien;3
+20;Masjid Muhammad Cheng Hoo;3,419753086
+20;Transmart Jember;3,209876543
+20;Jember Town Square;3,209876543
+21;Gunung Argopuro;4,209876543
+21;Gunung Papuma;3,827160494
+21;Kebun Teh Gunung Gambir;3,827160494
+21;Air Terjun Tancak;4,209876543
+21;Wisata Pinus Sidomulyo;4
+21;Teluk Love;4,209876543
+21;Trans Studio Mini;3,814814815
+21;Gas Adventure Land;3,987654321
+21;Kidzoona Lipoo Plaza;3,197530864
+21;Jember Mini ZOO;4
+21;Gudeg Lumintu;3
+21;Cafe Kolong;3,604938272
+21;Restoran Pawon Sari;3
+21;Alun-alun Jember Foodcourt;3,592592593
+21;Pura Mandara Giri Semeru Agung;4,024691358
+21;Makam Habib Sholeh Tanggul;4,395061728
+21;Lippo Plaza;4
+21;Jember Roxy Square;4,395061728
+21;Makam KH Muhammad Shidiq;4,395061728
+21;Masjid Jami' Al-Baitul Amien;3,814814815
+21;Masjid Muhammad Cheng Hoo;3,802469136
+21;Dira Kencong Shopping Center;4
+21;Rumah Batik Rolla;3,814814815
+21;Transmart Jember;4,209876543
+21;Jember Town Square;3,827160494
+22;Gunung Argopuro;5
+22;Gunung Papuma;3
+22;Kebun Teh Gunung Gambir;3,382716049
+22;Air Terjun Tancak;4,012345679
+22;Wisata Pinus Sidomulyo;3,382716049
+22;Teluk Love;3,604938272
+22;Trans Studio Mini;2,790123457
+22;Gas Adventure Land;2,987654321
+22;Kidzoona Lipoo Plaza;2,604938272
+22;Jember Mini ZOO;3,222222222
+22;Gudeg Lumintu;2,777777778
+22;Cafe Kolong;2,604938272
+22;Restoran Pawon Sari;2,592592593
+22;Alun-alun Jember Foodcourt;2,802469136
+22;Pura Mandara Giri Semeru Agung;3,209876543
+22;Makam Habib Sholeh Tanggul;3,592592593
+22;Lippo Plaza;3,604938272
+22;Jember Roxy Square;3,802469136
+22;Makam KH Muhammad Shidiq;3,802469136
+22;Masjid Jami' Al-Baitul Amien;5
+22;Masjid Muhammad Cheng Hoo;4
+22;Dira Kencong Shopping Center;3,432098765
+22;Rumah Batik Rolla;3,395061728
+22;Transmart Jember;3,592592593
+22;Jember Town Square;3,987654321
+23;Gunung Argopuro;3
+23;Gunung Papuma;3,197530864
+23;Kebun Teh Gunung Gambir;2,62962963
+23;Air Terjun Tancak;2,037037037
+23;Wisata Pinus Sidomulyo;2,950617284
+23;Teluk Love;3,555555556
+23;Trans Studio Mini;3,580246914
+23;Gas Adventure Land;1
+23;Kidzoona Lipoo Plaza;3,012345679
+23;Jember Mini ZOO;2,777777778
+23;Gudeg Lumintu;2,962962963
+23;Cafe Kolong;3,358024691
+23;Restoran Pawon Sari;3,358024691
+23;Alun-alun Jember Foodcourt;3,592592593
+23;Pura Mandara Giri Semeru Agung;2,419753086
+23;Makam Habib Sholeh Tanggul;4,024691358
+23;Lippo Plaza;3,827160494
+23;Jember Roxy Square;3,395061728
+23;Makam KH Muhammad Shidiq;4,395061728
+23;Masjid Jami' Al-Baitul Amien;5
+23;Masjid Muhammad Cheng Hoo;4,197530864
+23;Dira Kencong Shopping Center;2,839506173
+23;Rumah Batik Rolla;2,654320988
+23;Transmart Jember;4,802469136
+23;Jember Town Square;3,827160494
+24;Gunung Argopuro;4
+24;Gunung Papuma;4,209876543
+24;Kebun Teh Gunung Gambir;4
+24;Air Terjun Tancak;5
+24;Wisata Pinus Sidomulyo;4
+24;Teluk Love;5
+24;Trans Studio Mini;4
+24;Gas Adventure Land;4
+24;Kidzoona Lipoo Plaza;4
+24;Jember Mini ZOO;4
+24;Gudeg Lumintu;3,197530864
+24;Cafe Kolong;4
+24;Restoran Pawon Sari;4
+24;Alun-alun Jember Foodcourt;4
+24;Pura Mandara Giri Semeru Agung;5
+24;Makam Habib Sholeh Tanggul;5
+24;Lippo Plaza;5
+24;Jember Roxy Square;5
+24;Makam KH Muhammad Shidiq;5
+24;Masjid Jami' Al-Baitul Amien;5
+24;Masjid Muhammad Cheng Hoo;4,617283951
+24;Dira Kencong Shopping Center;4
+24;Rumah Batik Rolla;4
+24;Transmart Jember;4
+24;Jember Town Square;4
+25;Gunung Argopuro;0
+25;Gunung Papuma;5
+25;Kebun Teh Gunung Gambir;0
+25;Air Terjun Tancak;0
+25;Wisata Pinus Sidomulyo;0
+25;Teluk Love;0
+25;Trans Studio Mini;0
+25;Gas Adventure Land;4,580246914
+25;Kidzoona Lipoo Plaza;0
+25;Jember Mini ZOO;5
+25;Gudeg Lumintu;0
+25;Cafe Kolong;0
+25;Restoran Pawon Sari;5
+25;Alun-alun Jember Foodcourt;0
+25;Pura Mandara Giri Semeru Agung;0
+25;Makam Habib Sholeh Tanggul;0
+25;Lippo Plaza;5
+25;Jember Roxy Square;5
+25;Makam KH Muhammad Shidiq;0
+25;Masjid Jami' Al-Baitul Amien;0
+25;Masjid Muhammad Cheng Hoo;5
+25;Dira Kencong Shopping Center;0
+25;Rumah Batik Rolla;0
+25;Transmart Jember;5
+25;Jember Town Square;0
+26;Gunung Argopuro;3,209876543
+26;Gunung Papuma;2,790123457
+26;Kebun Teh Gunung Gambir;3,197530864
+26;Air Terjun Tancak;3,419753086
+26;Wisata Pinus Sidomulyo;3
+26;Teluk Love;3,209876543
+26;Trans Studio Mini;2,987654321
+26;Gas Adventure Land;3,382716049
+26;Kidzoona Lipoo Plaza;2,802469136
+26;Jember Mini ZOO;3,617283951
+26;Gudeg Lumintu;3,209876543
+26;Cafe Kolong;3,209876543
+26;Restoran Pawon Sari;3,209876543
+26;Alun-alun Jember Foodcourt;3,419753086
+26;Pura Mandara Giri Semeru Agung;3,197530864
+26;Makam Habib Sholeh Tanggul;3,617283951
+26;Lippo Plaza;2,790123457
+26;Jember Roxy Square;3,209876543
+26;Makam KH Muhammad Shidiq;3,617283951
+26;Masjid Jami' Al-Baitul Amien;3,617283951
+26;Masjid Muhammad Cheng Hoo;3,382716049
+26;Dira Kencong Shopping Center;3,172839506
+26;Rumah Batik Rolla;3,592592593
+26;Transmart Jember;3,209876543
+26;Jember Town Square;3,419753086
+27;Gunung Argopuro;4,222222222
+27;Gunung Papuma;3,604938272
+27;Kebun Teh Gunung Gambir;4,395061728
+27;Air Terjun Tancak;3,839506173
+27;Wisata Pinus Sidomulyo;3,802469136
+27;Teluk Love;3,604938272
+27;Trans Studio Mini;4,209876543
+27;Gas Adventure Land;3,567901235
+27;Kidzoona Lipoo Plaza;4,592592593
+27;Jember Mini ZOO;3,740740741
+27;Gudeg Lumintu;4,012345679
+27;Cafe Kolong;4,209876543
+27;Restoran Pawon Sari;4,592592593
+27;Alun-alun Jember Foodcourt;4,37037037
+27;Pura Mandara Giri Semeru Agung;5
+27;Makam Habib Sholeh Tanggul;5
+27;Lippo Plaza;3,790123457
+27;Jember Roxy Square;4,382716049
+27;Makam KH Muhammad Shidiq;4
+27;Masjid Jami' Al-Baitul Amien;5
+27;Masjid Muhammad Cheng Hoo;4,185185185
+27;Dira Kencong Shopping Center;4,185185185
+27;Rumah Batik Rolla;5
+27;Transmart Jember;4
+27;Jember Town Square;4,617283951
+28;Gunung Argopuro;4
+28;Gunung Papuma;4,024691358
+28;Kebun Teh Gunung Gambir;4,209876543
+28;Air Terjun Tancak;4,209876543
+28;Wisata Pinus Sidomulyo;4,209876543
+28;Teluk Love;4,209876543
+28;Trans Studio Mini;4,790123457
+28;Gas Adventure Land;4,185185185
+28;Kidzoona Lipoo Plaza;4,580246914
+28;Jember Mini ZOO;4,592592593
+28;Gudeg Lumintu;4
+28;Cafe Kolong;4
+28;Restoran Pawon Sari;4
+28;Alun-alun Jember Foodcourt;4
+28;Pura Mandara Giri Semeru Agung;4,012345679
+28;Makam Habib Sholeh Tanggul;4,209876543
+28;Lippo Plaza;4,790123457
+28;Jember Roxy Square;5
+28;Makam KH Muhammad Shidiq;4,209876543
+28;Masjid Jami' Al-Baitul Amien;4,209876543
+28;Masjid Muhammad Cheng Hoo;4,209876543
+28;Dira Kencong Shopping Center;4,209876543
+28;Rumah Batik Rolla;4,592592593
+28;Transmart Jember;4,790123457
+28;Jember Town Square;4,209876543
+29;Gunung Argopuro;4,37037037
+29;Gunung Papuma;5
+29;Kebun Teh Gunung Gambir;5
+29;Air Terjun Tancak;4,814814815
+29;Wisata Pinus Sidomulyo;5
+29;Teluk Love;4,419753086
+29;Trans Studio Mini;3,592592593
+29;Gas Adventure Land;3,592592593
+29;Kidzoona Lipoo Plaza;4,209876543
+29;Jember Mini ZOO;3,592592593
+29;Gudeg Lumintu;3,160493827
+29;Cafe Kolong;5
+29;Restoran Pawon Sari;4,160493827
+29;Alun-alun Jember Foodcourt;4,407407407
+29;Pura Mandara Giri Semeru Agung;4,592592593
+29;Makam Habib Sholeh Tanggul;2,12345679
+29;Lippo Plaza;3,802469136
+29;Jember Roxy Square;4,37037037
+29;Makam KH Muhammad Shidiq;5
+29;Masjid Jami' Al-Baitul Amien;4,790123457
+29;Masjid Muhammad Cheng Hoo;0
+29;Dira Kencong Shopping Center;0
+29;Rumah Batik Rolla;0
+29;Transmart Jember;0
+29;Jember Town Square;0
+30;Gunung Argopuro;3,222222222
+30;Gunung Papuma;4,037037037
+30;Kebun Teh Gunung Gambir;4,209876543
+30;Air Terjun Tancak;5
+30;Wisata Pinus Sidomulyo;3
+30;Teluk Love;4
+30;Trans Studio Mini;4
+30;Gas Adventure Land;2
+30;Kidzoona Lipoo Plaza;4,407407407
+30;Jember Mini ZOO;5
+30;Gudeg Lumintu;5
+30;Cafe Kolong;3,197530864
+30;Restoran Pawon Sari;3,407407407
+30;Alun-alun Jember Foodcourt;5
+30;Pura Mandara Giri Semeru Agung;5
+30;Makam Habib Sholeh Tanggul;5
+30;Lippo Plaza;3,802469136
+30;Jember Roxy Square;3,604938272
+30;Makam KH Muhammad Shidiq;5
+30;Masjid Jami' Al-Baitul Amien;4,395061728
+30;Masjid Muhammad Cheng Hoo;4,419753086
+30;Dira Kencong Shopping Center;4,209876543
+30;Rumah Batik Rolla;5
+30;Transmart Jember;3,790123457
+30;Jember Town Square;3,802469136
+31;Gunung Argopuro;3
+31;Gunung Papuma;4,407407407
+31;Kebun Teh Gunung Gambir;3,62962963
+31;Air Terjun Tancak;2,790123457
+31;Wisata Pinus Sidomulyo;3,987654321
+31;Teluk Love;4,382716049
+31;Trans Studio Mini;2,987654321
+31;Gas Adventure Land;3,209876543
+31;Kidzoona Lipoo Plaza;4,160493827
+31;Jember Mini ZOO;3,592592593
+31;Gudeg Lumintu;2,987654321
+31;Cafe Kolong;2,37037037
+31;Restoran Pawon Sari;3,382716049
+31;Alun-alun Jember Foodcourt;2,975308642
+31;Pura Mandara Giri Semeru Agung;3,407407407
+31;Makam Habib Sholeh Tanggul;3,197530864
+31;Lippo Plaza;4,012345679
+31;Jember Roxy Square;3,419753086
+31;Makam KH Muhammad Shidiq;2,827160494
+31;Masjid Jami' Al-Baitul Amien;2,617283951
+31;Masjid Muhammad Cheng Hoo;3,419753086
+31;Dira Kencong Shopping Center;2,975308642
+31;Rumah Batik Rolla;3,617283951
+31;Transmart Jember;3,419753086
+31;Jember Town Square;3,012345679
+32;Gunung Argopuro;2,407407407
+32;Gunung Papuma;2,580246914
+32;Kebun Teh Gunung Gambir;2,790123457
+32;Air Terjun Tancak;2,543209877
+32;Wisata Pinus Sidomulyo;2
+32;Teluk Love;2
+32;Trans Studio Mini;2,419753086
+32;Gas Adventure Land;2,641975309
+32;Kidzoona Lipoo Plaza;2,814814815
+32;Jember Mini ZOO;3
+32;Gudeg Lumintu;2,62962963
+32;Cafe Kolong;3
+32;Restoran Pawon Sari;3,012345679
+32;Alun-alun Jember Foodcourt;2,62962963
+32;Pura Mandara Giri Semeru Agung;1,592592593
+32;Makam Habib Sholeh Tanggul;1
+32;Lippo Plaza;2,987654321
+32;Jember Roxy Square;2,777777778
+32;Makam KH Muhammad Shidiq;1
+32;Masjid Jami' Al-Baitul Amien;1
+32;Masjid Muhammad Cheng Hoo;1,407407407
+32;Dira Kencong Shopping Center;1,382716049
+32;Rumah Batik Rolla;1,987654321
+32;Transmart Jember;2,37037037
+32;Jember Town Square;1,395061728
+33;Gunung Argopuro;3,209876543
+33;Gunung Papuma;3,197530864
+33;Kebun Teh Gunung Gambir;3,209876543
+33;Air Terjun Tancak;3,209876543
+33;Wisata Pinus Sidomulyo;3,209876543
+33;Teluk Love;3
+33;Trans Studio Mini;3
+33;Gas Adventure Land;3
+33;Kidzoona Lipoo Plaza;3
+33;Jember Mini ZOO;3
+33;Gudeg Lumintu;3
+33;Cafe Kolong;3
+33;Restoran Pawon Sari;2,407407407
+33;Alun-alun Jember Foodcourt;3
+33;Pura Mandara Giri Semeru Agung;3
+33;Makam Habib Sholeh Tanggul;3,419753086
+33;Lippo Plaza;3
+33;Jember Roxy Square;3,209876543
+33;Makam KH Muhammad Shidiq;3,209876543
+33;Masjid Jami' Al-Baitul Amien;3,419753086
+33;Masjid Muhammad Cheng Hoo;3,209876543
+33;Dira Kencong Shopping Center;3,209876543
+33;Rumah Batik Rolla;3
+33;Transmart Jember;3,209876543
+33;Jember Town Square;2,444444444
+34;Gunung Argopuro;3,382716049
+34;Gunung Papuma;4,580246914
+34;Kebun Teh Gunung Gambir;3,839506173
+34;Air Terjun Tancak;3,419753086
+34;Wisata Pinus Sidomulyo;3
+34;Teluk Love;3,814814815
+34;Trans Studio Mini;3
+34;Gas Adventure Land;3
+34;Kidzoona Lipoo Plaza;3
+34;Jember Mini ZOO;3,209876543
+34;Gudeg Lumintu;3
+34;Cafe Kolong;3
+34;Restoran Pawon Sari;3
+34;Alun-alun Jember Foodcourt;3
+34;Pura Mandara Giri Semeru Agung;3
+34;Makam Habib Sholeh Tanggul;3
+34;Lippo Plaza;3
+34;Jember Roxy Square;3
+34;Makam KH Muhammad Shidiq;3
+34;Masjid Jami' Al-Baitul Amien;3
+34;Masjid Muhammad Cheng Hoo;3
+34;Dira Kencong Shopping Center;3
+34;Rumah Batik Rolla;3
+34;Transmart Jember;3
+34;Jember Town Square;3
+35;Gunung Argopuro;3,580246914
+35;Gunung Papuma;4
+35;Kebun Teh Gunung Gambir;3,580246914
+35;Air Terjun Tancak;4
+35;Wisata Pinus Sidomulyo;3,395061728
+35;Teluk Love;3,395061728
+35;Trans Studio Mini;4
+35;Gas Adventure Land;3,604938272
+35;Kidzoona Lipoo Plaza;3,395061728
+35;Jember Mini ZOO;3
+35;Gudeg Lumintu;3,604938272
+35;Cafe Kolong;3,604938272
+35;Restoran Pawon Sari;3,604938272
+35;Alun-alun Jember Foodcourt;3,604938272
+35;Pura Mandara Giri Semeru Agung;3,604938272
+35;Makam Habib Sholeh Tanggul;3,790123457
+35;Lippo Plaza;3,604938272
+35;Jember Roxy Square;3,209876543
+35;Makam KH Muhammad Shidiq;3,617283951
+35;Masjid Jami' Al-Baitul Amien;3
+35;Masjid Muhammad Cheng Hoo;3,395061728
+35;Dira Kencong Shopping Center;3,407407407
+35;Rumah Batik Rolla;3,604938272
+35;Transmart Jember;4,197530864
+35;Jember Town Square;4,197530864
+36;Gunung Argopuro;0
+36;Gunung Papuma;3,407407407
+36;Kebun Teh Gunung Gambir;3,62962963
+36;Air Terjun Tancak;3,444444444
+36;Wisata Pinus Sidomulyo;3,592592593
+36;Teluk Love;3,987654321
+36;Trans Studio Mini;4,382716049
+36;Gas Adventure Land;4
+36;Kidzoona Lipoo Plaza;3,962962963
+36;Jember Mini ZOO;3,580246914
+36;Gudeg Lumintu;3,975308642
+36;Cafe Kolong;3,197530864
+36;Restoran Pawon Sari;0
+36;Alun-alun Jember Foodcourt;0
+36;Pura Mandara Giri Semeru Agung;4,012345679
+36;Makam Habib Sholeh Tanggul;4,395061728
+36;Lippo Plaza;5
+36;Jember Roxy Square;5
+36;Makam KH Muhammad Shidiq;4,012345679
+36;Masjid Jami' Al-Baitul Amien;0
+36;Masjid Muhammad Cheng Hoo;0
+36;Dira Kencong Shopping Center;0
+36;Rumah Batik Rolla;0
+36;Transmart Jember;4,592592593
+36;Jember Town Square;4,592592593
+37;Gunung Argopuro;4,617283951
+37;Gunung Papuma;4,592592593
+37;Kebun Teh Gunung Gambir;4,407407407
+37;Air Terjun Tancak;4,234567901
+37;Wisata Pinus Sidomulyo;4,209876543
+37;Teluk Love;4,802469136
+37;Trans Studio Mini;3,790123457
+37;Gas Adventure Land;4,592592593
+37;Kidzoona Lipoo Plaza;4,790123457
+37;Jember Mini ZOO;4,802469136
+37;Gudeg Lumintu;4,382716049
+37;Cafe Kolong;4,604938272
+37;Restoran Pawon Sari;3,592592593
+37;Alun-alun Jember Foodcourt;4,802469136
+37;Pura Mandara Giri Semeru Agung;4,814814815
+37;Makam Habib Sholeh Tanggul;4,382716049
+37;Lippo Plaza;4,790123457
+37;Jember Roxy Square;4,592592593
+37;Makam KH Muhammad Shidiq;3,407407407
+37;Masjid Jami' Al-Baitul Amien;5
+37;Masjid Muhammad Cheng Hoo;5
+37;Dira Kencong Shopping Center;4,802469136
+37;Rumah Batik Rolla;5
+37;Transmart Jember;5
+37;Jember Town Square;5
+38;Gunung Argopuro;5
+38;Gunung Papuma;5
+38;Kebun Teh Gunung Gambir;5
+38;Air Terjun Tancak;5
+38;Wisata Pinus Sidomulyo;5
+38;Teluk Love;5
+38;Trans Studio Mini;5
+38;Gas Adventure Land;5
+38;Kidzoona Lipoo Plaza;5
+38;Jember Mini ZOO;5
+38;Gudeg Lumintu;5
+38;Cafe Kolong;5
+38;Restoran Pawon Sari;5
+38;Alun-alun Jember Foodcourt;5
+38;Pura Mandara Giri Semeru Agung;5
+38;Makam Habib Sholeh Tanggul;5
+38;Lippo Plaza;5
+38;Jember Roxy Square;5
+38;Makam KH Muhammad Shidiq;5
+38;Masjid Jami' Al-Baitul Amien;5
+38;Masjid Muhammad Cheng Hoo;5
+38;Dira Kencong Shopping Center;5
+38;Rumah Batik Rolla;5
+38;Transmart Jember;5
+38;Jember Town Square;5
+39;Gunung Argopuro;5
+39;Gunung Papuma;5
+39;Kebun Teh Gunung Gambir;3,839506173
+39;Air Terjun Tancak;4,209876543
+39;Wisata Pinus Sidomulyo;4
+39;Teluk Love;5
+39;Trans Studio Mini;5
+39;Gas Adventure Land;3
+39;Kidzoona Lipoo Plaza;3
+39;Jember Mini ZOO;4
+39;Gudeg Lumintu;5
+39;Cafe Kolong;5
+39;Restoran Pawon Sari;5
+39;Alun-alun Jember Foodcourt;4
+39;Pura Mandara Giri Semeru Agung;4
+39;Makam Habib Sholeh Tanggul;5
+39;Lippo Plaza;5
+39;Jember Roxy Square;5
+39;Makam KH Muhammad Shidiq;3,839506173
+39;Masjid Jami' Al-Baitul Amien;4,012345679
+39;Masjid Muhammad Cheng Hoo;3,419753086
+39;Dira Kencong Shopping Center;3
+39;Rumah Batik Rolla;4
+39;Transmart Jember;2,679012346
+39;Jember Town Square;5
+40;Gunung Argopuro;3
+40;Gunung Papuma;4
+40;Kebun Teh Gunung Gambir;4
+40;Air Terjun Tancak;3
+40;Wisata Pinus Sidomulyo;2,419753086
+40;Teluk Love;3
+40;Trans Studio Mini;4
+40;Gas Adventure Land;2,790123457
+40;Kidzoona Lipoo Plaza;3,592592593
+40;Jember Mini ZOO;4,407407407
+40;Gudeg Lumintu;5
+40;Cafe Kolong;4
+40;Restoran Pawon Sari;3
+40;Alun-alun Jember Foodcourt;3,172839506
+40;Pura Mandara Giri Semeru Agung;4,209876543
+40;Makam Habib Sholeh Tanggul;4,209876543
+40;Lippo Plaza;3,617283951
+40;Jember Roxy Square;3
+40;Makam KH Muhammad Shidiq;5
+40;Masjid Jami' Al-Baitul Amien;5
+40;Masjid Muhammad Cheng Hoo;4
+40;Dira Kencong Shopping Center;3
+40;Rumah Batik Rolla;3
+40;Transmart Jember;3,382716049
+40;Jember Town Square;3,382716049
+41;Gunung Argopuro;3,012345679
+41;Gunung Papuma;3,827160494
+41;Kebun Teh Gunung Gambir;3,802469136
+41;Air Terjun Tancak;4,209876543
+41;Wisata Pinus Sidomulyo;3,827160494
+41;Teluk Love;3,407407407
+41;Trans Studio Mini;4
+41;Gas Adventure Land;3,382716049
+41;Kidzoona Lipoo Plaza;4,197530864
+41;Jember Mini ZOO;3,790123457
+41;Gudeg Lumintu;3,407407407
+41;Cafe Kolong;3
+41;Restoran Pawon Sari;3,197530864
+41;Alun-alun Jember Foodcourt;3,790123457
+41;Pura Mandara Giri Semeru Agung;3,419753086
+41;Makam Habib Sholeh Tanggul;4,407407407
+41;Lippo Plaza;5
+41;Jember Roxy Square;4
+41;Makam KH Muhammad Shidiq;3,617283951
+41;Masjid Jami' Al-Baitul Amien;4,209876543
+41;Masjid Muhammad Cheng Hoo;3,617283951
+41;Dira Kencong Shopping Center;4,209876543
+41;Rumah Batik Rolla;3,802469136
+41;Transmart Jember;4
+41;Jember Town Square;4,209876543
+42;Gunung Argopuro;4,222222222
+42;Gunung Papuma;3,419753086
+42;Kebun Teh Gunung Gambir;3,62962963
+42;Air Terjun Tancak;4,024691358
+42;Wisata Pinus Sidomulyo;4,037037037
+42;Teluk Love;4,037037037
+42;Trans Studio Mini;4,617283951
+42;Gas Adventure Land;4,209876543
+42;Kidzoona Lipoo Plaza;4,592592593
+42;Jember Mini ZOO;4,617283951
+42;Gudeg Lumintu;4,407407407
+42;Cafe Kolong;4,234567901
+42;Restoran Pawon Sari;3,802469136
+42;Alun-alun Jember Foodcourt;4,382716049
+42;Pura Mandara Giri Semeru Agung;4,617283951
+42;Makam Habib Sholeh Tanggul;4,814814815
+42;Lippo Plaza;5
+42;Jember Roxy Square;5
+42;Makam KH Muhammad Shidiq;4,617283951
+42;Masjid Jami' Al-Baitul Amien;4,592592593
+42;Masjid Muhammad Cheng Hoo;4,802469136
+42;Dira Kencong Shopping Center;4,814814815
+42;Rumah Batik Rolla;4,197530864
+42;Transmart Jember;4,592592593
+42;Jember Town Square;4,814814815
+43;Gunung Argopuro;3,802469136
+43;Gunung Papuma;3,012345679
+43;Kebun Teh Gunung Gambir;3,407407407
+43;Air Terjun Tancak;3,222222222
+43;Wisata Pinus Sidomulyo;2,567901235
+43;Teluk Love;3,382716049
+43;Trans Studio Mini;3,382716049
+43;Gas Adventure Land;3,395061728
+43;Kidzoona Lipoo Plaza;3,37037037
+43;Jember Mini ZOO;3,827160494
+43;Gudeg Lumintu;3,592592593
+43;Cafe Kolong;3,802469136
+43;Restoran Pawon Sari;3,75308642
+43;Alun-alun Jember Foodcourt;4,172839506
+43;Pura Mandara Giri Semeru Agung;3,432098765
+43;Makam Habib Sholeh Tanggul;3,802469136
+43;Lippo Plaza;3,790123457
+43;Jember Roxy Square;3,592592593
+43;Makam KH Muhammad Shidiq;3,407407407
+43;Masjid Jami' Al-Baitul Amien;3,567901235
+43;Masjid Muhammad Cheng Hoo;3,802469136
+43;Dira Kencong Shopping Center;3,592592593
+43;Rumah Batik Rolla;4,185185185
+43;Transmart Jember;3,975308642
+43;Jember Town Square;3,580246914
+44;Gunung Argopuro;3,209876543
+44;Gunung Papuma;3,604938272
+44;Kebun Teh Gunung Gambir;2,827160494
+44;Air Terjun Tancak;3,617283951
+44;Wisata Pinus Sidomulyo;2,395061728
+44;Teluk Love;3,222222222
+44;Trans Studio Mini;3,567901235
+44;Gas Adventure Land;3,395061728
+44;Kidzoona Lipoo Plaza;3,382716049
+44;Jember Mini ZOO;3,802469136
+44;Gudeg Lumintu;3,172839506
+44;Cafe Kolong;3,592592593
+44;Restoran Pawon Sari;2,987654321
+44;Alun-alun Jember Foodcourt;3
+44;Pura Mandara Giri Semeru Agung;3,604938272
+44;Makam Habib Sholeh Tanggul;3,617283951
+44;Lippo Plaza;2,975308642
+44;Jember Roxy Square;3,814814815
+44;Makam KH Muhammad Shidiq;3,802469136
+44;Masjid Jami' Al-Baitul Amien;3,814814815
+44;Masjid Muhammad Cheng Hoo;3,185185185
+44;Dira Kencong Shopping Center;3,592592593
+44;Rumah Batik Rolla;2,839506173
+44;Transmart Jember;3,604938272
+44;Jember Town Square;3,382716049
+45;Gunung Argopuro;3,197530864
+45;Gunung Papuma;3,604938272
+45;Kebun Teh Gunung Gambir;3,407407407
+45;Air Terjun Tancak;3,395061728
+45;Wisata Pinus Sidomulyo;3,604938272
+45;Teluk Love;3,407407407
+45;Trans Studio Mini;3,197530864
+45;Gas Adventure Land;3,185185185
+45;Kidzoona Lipoo Plaza;3,395061728
+45;Jember Mini ZOO;3,395061728
+45;Gudeg Lumintu;3,197530864
+45;Cafe Kolong;3,382716049
+45;Restoran Pawon Sari;3,382716049
+45;Alun-alun Jember Foodcourt;3,592592593
+45;Pura Mandara Giri Semeru Agung;3,197530864
+45;Makam Habib Sholeh Tanggul;3,382716049
+45;Lippo Plaza;3,592592593
+45;Jember Roxy Square;3,382716049
+45;Makam KH Muhammad Shidiq;3,592592593
+45;Masjid Jami' Al-Baitul Amien;3,604938272
+45;Masjid Muhammad Cheng Hoo;3,407407407
+45;Dira Kencong Shopping Center;3,197530864
+45;Rumah Batik Rolla;3,592592593
+45;Transmart Jember;3,592592593
+45;Jember Town Square;3,407407407
+46;Gunung Argopuro;5
+46;Gunung Papuma;4,814814815
+46;Kebun Teh Gunung Gambir;5
+46;Air Terjun Tancak;5
+46;Wisata Pinus Sidomulyo;4
+46;Teluk Love;5
+46;Trans Studio Mini;5
+46;Gas Adventure Land;5
+46;Kidzoona Lipoo Plaza;5
+46;Jember Mini ZOO;5
+46;Gudeg Lumintu;5
+46;Cafe Kolong;5
+46;Restoran Pawon Sari;4,580246914
+46;Alun-alun Jember Foodcourt;4,580246914
+46;Pura Mandara Giri Semeru Agung;5
+46;Makam Habib Sholeh Tanggul;5
+46;Lippo Plaza;5
+46;Jember Roxy Square;5
+46;Makam KH Muhammad Shidiq;5
+46;Masjid Jami' Al-Baitul Amien;5
+46;Masjid Muhammad Cheng Hoo;5
+46;Dira Kencong Shopping Center;5
+46;Rumah Batik Rolla;5
+46;Transmart Jember;5
+46;Jember Town Square;5
+47;Gunung Argopuro;5
+47;Gunung Papuma;5
+47;Kebun Teh Gunung Gambir;5
+47;Air Terjun Tancak;4,592592593
+47;Wisata Pinus Sidomulyo;5
+47;Teluk Love;5
+47;Trans Studio Mini;5
+47;Gas Adventure Land;5
+47;Kidzoona Lipoo Plaza;5
+47;Jember Mini ZOO;5
+47;Gudeg Lumintu;5
+47;Cafe Kolong;5
+47;Restoran Pawon Sari;5
+47;Alun-alun Jember Foodcourt;5
+47;Pura Mandara Giri Semeru Agung;5
+47;Makam Habib Sholeh Tanggul;5
+47;Lippo Plaza;4,790123457
+47;Jember Roxy Square;5
+47;Makam KH Muhammad Shidiq;5
+47;Masjid Jami' Al-Baitul Amien;5
+47;Masjid Muhammad Cheng Hoo;5
+47;Dira Kencong Shopping Center;5
+47;Rumah Batik Rolla;5
+47;Transmart Jember;5
+47;Jember Town Square;5
+48;Gunung Argopuro;3,617283951
+48;Gunung Papuma;4,209876543
+48;Kebun Teh Gunung Gambir;4,617283951
+48;Air Terjun Tancak;4,395061728
+48;Wisata Pinus Sidomulyo;4,382716049
+48;Teluk Love;4,617283951
+48;Trans Studio Mini;4,580246914
+48;Gas Adventure Land;3,592592593
+48;Kidzoona Lipoo Plaza;4,382716049
+48;Jember Mini ZOO;4,209876543
+48;Gudeg Lumintu;4,37037037
+48;Cafe Kolong;4,185185185
+48;Restoran Pawon Sari;4
+48;Alun-alun Jember Foodcourt;4,209876543
+48;Pura Mandara Giri Semeru Agung;4,790123457
+48;Makam Habib Sholeh Tanggul;5
+48;Lippo Plaza;5
+48;Jember Roxy Square;5
+48;Makam KH Muhammad Shidiq;5
+48;Masjid Jami' Al-Baitul Amien;5
+48;Masjid Muhammad Cheng Hoo;4,790123457
+48;Dira Kencong Shopping Center;4,790123457
+48;Rumah Batik Rolla;4,407407407
+48;Transmart Jember;4,802469136
+48;Jember Town Square;4,395061728
+49;Gunung Argopuro;3,604938272
+49;Gunung Papuma;4,209876543
+49;Kebun Teh Gunung Gambir;4,802469136
+49;Air Terjun Tancak;3,407407407
+49;Wisata Pinus Sidomulyo;4,024691358
+49;Teluk Love;4,419753086
+49;Trans Studio Mini;4,802469136
+49;Gas Adventure Land;3,790123457
+49;Kidzoona Lipoo Plaza;5
+49;Jember Mini ZOO;4,802469136
+49;Gudeg Lumintu;4,395061728
+49;Cafe Kolong;3,962962963
+49;Restoran Pawon Sari;3,962962963
+49;Alun-alun Jember Foodcourt;3,765432099
+49;Pura Mandara Giri Semeru Agung;4,802469136
+49;Makam Habib Sholeh Tanggul;4,802469136
+49;Lippo Plaza;5
+49;Jember Roxy Square;5
+49;Makam KH Muhammad Shidiq;4,395061728
+49;Masjid Jami' Al-Baitul Amien;5
+49;Masjid Muhammad Cheng Hoo;5
+49;Dira Kencong Shopping Center;4,604938272
+49;Rumah Batik Rolla;5
+49;Transmart Jember;5
+49;Jember Town Square;5
+50;Gunung Argopuro;5
+50;Gunung Papuma;5
+50;Kebun Teh Gunung Gambir;5
+50;Air Terjun Tancak;5
+50;Wisata Pinus Sidomulyo;5
+50;Teluk Love;5
+50;Trans Studio Mini;3
+50;Gas Adventure Land;3
+50;Kidzoona Lipoo Plaza;3
+50;Jember Mini ZOO;3
+50;Gudeg Lumintu;3
+50;Cafe Kolong;2,407407407
+50;Restoran Pawon Sari;3
+50;Alun-alun Jember Foodcourt;2,382716049
+50;Pura Mandara Giri Semeru Agung;3
+50;Makam Habib Sholeh Tanggul;5
+50;Lippo Plaza;4,012345679
+50;Jember Roxy Square;5
+50;Makam KH Muhammad Shidiq;5
+50;Masjid Jami' Al-Baitul Amien;5
+50;Masjid Muhammad Cheng Hoo;5
+50;Dira Kencong Shopping Center;5
+50;Rumah Batik Rolla;5
+50;Transmart Jember;4
+50;Jember Town Square;4,37037037
+51;Gunung Argopuro;2
+51;Gunung Papuma;4
+51;Kebun Teh Gunung Gambir;5
+51;Air Terjun Tancak;5
+51;Wisata Pinus Sidomulyo;5
+51;Teluk Love;5
+51;Trans Studio Mini;4
+51;Gas Adventure Land;2
+51;Kidzoona Lipoo Plaza;1
+51;Jember Mini ZOO;3
+51;Gudeg Lumintu;5
+51;Cafe Kolong;4
+51;Restoran Pawon Sari;3
+51;Alun-alun Jember Foodcourt;3
+51;Pura Mandara Giri Semeru Agung;1
+51;Makam Habib Sholeh Tanggul;5
+51;Lippo Plaza;2
+51;Jember Roxy Square;3
+51;Makam KH Muhammad Shidiq;3
+51;Masjid Jami' Al-Baitul Amien;3
+51;Masjid Muhammad Cheng Hoo;3
+51;Dira Kencong Shopping Center;3,802469136
+51;Rumah Batik Rolla;5
+51;Transmart Jember;3
+51;Jember Town Square;3
+52;Gunung Argopuro;4,604938272
+52;Gunung Papuma;2,814814815
+52;Kebun Teh Gunung Gambir;4,407407407
+52;Air Terjun Tancak;5
+52;Wisata Pinus Sidomulyo;4,395061728
+52;Teluk Love;3,839506173
+52;Trans Studio Mini;4,160493827
+52;Gas Adventure Land;3,592592593
+52;Kidzoona Lipoo Plaza;4,209876543
+52;Jember Mini ZOO;5
+52;Gudeg Lumintu;1,209876543
+52;Cafe Kolong;3,987654321
+52;Restoran Pawon Sari;4,37037037
+52;Alun-alun Jember Foodcourt;4,37037037
+52;Pura Mandara Giri Semeru Agung;5
+52;Makam Habib Sholeh Tanggul;5
+52;Lippo Plaza;5
+52;Jember Roxy Square;5
+52;Makam KH Muhammad Shidiq;5
+52;Masjid Jami' Al-Baitul Amien;5
+52;Masjid Muhammad Cheng Hoo;5
+52;Dira Kencong Shopping Center;5
+52;Rumah Batik Rolla;5
+52;Transmart Jember;5
+52;Jember Town Square;5
+53;Gunung Argopuro;2,012345679
+53;Gunung Papuma;1
+53;Kebun Teh Gunung Gambir;1,592592593
+53;Air Terjun Tancak;1,987654321
+53;Wisata Pinus Sidomulyo;2,592592593
+53;Teluk Love;1
+53;Trans Studio Mini;1,395061728
+53;Gas Adventure Land;2,777777778
+53;Kidzoona Lipoo Plaza;2,382716049
+53;Jember Mini ZOO;3,419753086
+53;Gudeg Lumintu;3,382716049
+53;Cafe Kolong;3,827160494
+53;Restoran Pawon Sari;3,209876543
+53;Alun-alun Jember Foodcourt;3,197530864
+53;Pura Mandara Giri Semeru Agung;5
+53;Makam Habib Sholeh Tanggul;4,790123457
+53;Lippo Plaza;3,024691358
+53;Jember Roxy Square;3,024691358
+53;Makam KH Muhammad Shidiq;3
+53;Masjid Jami' Al-Baitul Amien;3,012345679
+53;Masjid Muhammad Cheng Hoo;4,790123457
+53;Dira Kencong Shopping Center;3,592592593
+53;Rumah Batik Rolla;3,37037037
+53;Transmart Jember;3,75308642
+53;Jember Town Square;3,802469136
+54;Gunung Argopuro;4,209876543
+54;Gunung Papuma;4,197530864
+54;Kebun Teh Gunung Gambir;5
+54;Air Terjun Tancak;4,419753086
+54;Wisata Pinus Sidomulyo;4,382716049
+54;Teluk Love;5
+54;Trans Studio Mini;5
+54;Gas Adventure Land;5
+54;Kidzoona Lipoo Plaza;3,802469136
+54;Jember Mini ZOO;4,209876543
+54;Gudeg Lumintu;4,790123457
+54;Cafe Kolong;5
+54;Restoran Pawon Sari;4
+54;Alun-alun Jember Foodcourt;4
+54;Pura Mandara Giri Semeru Agung;4
+54;Makam Habib Sholeh Tanggul;5
+54;Lippo Plaza;5
+54;Jember Roxy Square;4,382716049
+54;Makam KH Muhammad Shidiq;5
+54;Masjid Jami' Al-Baitul Amien;5
+54;Masjid Muhammad Cheng Hoo;4,160493827
+54;Dira Kencong Shopping Center;5
+54;Rumah Batik Rolla;4,580246914
+54;Transmart Jember;5
+54;Jember Town Square;4,790123457
+55;Gunung Argopuro;4,814814815
+55;Gunung Papuma;4,419753086
+55;Kebun Teh Gunung Gambir;4,419753086
+55;Air Terjun Tancak;4,617283951
+55;Wisata Pinus Sidomulyo;4,419753086
+55;Teluk Love;4,617283951
+55;Trans Studio Mini;0
+55;Gas Adventure Land;2,740740741
+55;Kidzoona Lipoo Plaza;4,580246914
+55;Jember Mini ZOO;4,197530864
+55;Gudeg Lumintu;3,592592593
+55;Cafe Kolong;0
+55;Restoran Pawon Sari;4
+55;Alun-alun Jember Foodcourt;3,802469136
+55;Pura Mandara Giri Semeru Agung;4,209876543
+55;Makam Habib Sholeh Tanggul;4,209876543
+55;Lippo Plaza;4,802469136
+55;Jember Roxy Square;4,209876543
+55;Makam KH Muhammad Shidiq;4,012345679
+55;Masjid Jami' Al-Baitul Amien;4,592592593
+55;Masjid Muhammad Cheng Hoo;4,209876543
+55;Dira Kencong Shopping Center;4,209876543
+55;Rumah Batik Rolla;4,209876543
+55;Transmart Jember;5
+55;Jember Town Square;4,209876543
+56;Gunung Argopuro;5
+56;Gunung Papuma;3,37037037
+56;Kebun Teh Gunung Gambir;4
+56;Air Terjun Tancak;4,234567901
+56;Wisata Pinus Sidomulyo;3,802469136
+56;Teluk Love;4
+56;Trans Studio Mini;4,580246914
+56;Gas Adventure Land;4
+56;Kidzoona Lipoo Plaza;2,790123457
+56;Jember Mini ZOO;3,604938272
+56;Gudeg Lumintu;5
+56;Cafe Kolong;3,790123457
+56;Restoran Pawon Sari;3,790123457
+56;Alun-alun Jember Foodcourt;3,592592593
+56;Pura Mandara Giri Semeru Agung;4,209876543
+56;Makam Habib Sholeh Tanggul;4,802469136
+56;Lippo Plaza;4,395061728
+56;Jember Roxy Square;4,395061728
+56;Makam KH Muhammad Shidiq;4,012345679
+56;Masjid Jami' Al-Baitul Amien;5
+56;Masjid Muhammad Cheng Hoo;5
+56;Dira Kencong Shopping Center;5
+56;Rumah Batik Rolla;4
+56;Transmart Jember;5
+56;Jember Town Square;4,604938272
+57;Gunung Argopuro;3,62962963
+57;Gunung Papuma;3,024691358
+57;Kebun Teh Gunung Gambir;3,234567901
+57;Air Terjun Tancak;3,419753086
+57;Wisata Pinus Sidomulyo;4,012345679
+57;Teluk Love;2,839506173
+57;Trans Studio Mini;4,160493827
+57;Gas Adventure Land;4
+57;Kidzoona Lipoo Plaza;3,580246914
+57;Jember Mini ZOO;4,209876543
+57;Gudeg Lumintu;4,209876543
+57;Cafe Kolong;4,592592593
+57;Restoran Pawon Sari;3,740740741
+57;Alun-alun Jember Foodcourt;3,975308642
+57;Pura Mandara Giri Semeru Agung;4,814814815
+57;Makam Habib Sholeh Tanggul;3,395061728
+57;Lippo Plaza;5
+57;Jember Roxy Square;5
+57;Makam KH Muhammad Shidiq;3,604938272
+57;Masjid Jami' Al-Baitul Amien;3,604938272
+57;Masjid Muhammad Cheng Hoo;4,197530864
+57;Dira Kencong Shopping Center;4
+57;Rumah Batik Rolla;3,592592593
+57;Transmart Jember;4,37037037
+57;Jember Town Square;4,209876543
+58;Gunung Argopuro;4,012345679
+58;Gunung Papuma;4,209876543
+58;Kebun Teh Gunung Gambir;4,419753086
+58;Air Terjun Tancak;4,209876543
+58;Wisata Pinus Sidomulyo;4
+58;Teluk Love;5
+58;Trans Studio Mini;3,790123457
+58;Gas Adventure Land;4,407407407
+58;Kidzoona Lipoo Plaza;4,382716049
+58;Jember Mini ZOO;4
+58;Gudeg Lumintu;4
+58;Cafe Kolong;4
+58;Restoran Pawon Sari;4,209876543
+58;Alun-alun Jember Foodcourt;4,580246914
+58;Pura Mandara Giri Semeru Agung;4
+58;Makam Habib Sholeh Tanggul;4,209876543
+58;Lippo Plaza;4,790123457
+58;Jember Roxy Square;4
+58;Makam KH Muhammad Shidiq;4,209876543
+58;Masjid Jami' Al-Baitul Amien;4
+58;Masjid Muhammad Cheng Hoo;4
+58;Dira Kencong Shopping Center;4
+58;Rumah Batik Rolla;5
+58;Transmart Jember;4,407407407
+58;Jember Town Square;4
+59;Gunung Argopuro;5
+59;Gunung Papuma;5
+59;Kebun Teh Gunung Gambir;4,790123457
+59;Air Terjun Tancak;5
+59;Wisata Pinus Sidomulyo;4,790123457
+59;Teluk Love;5
+59;Trans Studio Mini;5
+59;Gas Adventure Land;5
+59;Kidzoona Lipoo Plaza;5
+59;Jember Mini ZOO;5
+59;Gudeg Lumintu;5
+59;Cafe Kolong;4,592592593
+59;Restoran Pawon Sari;5
+59;Alun-alun Jember Foodcourt;5
+59;Pura Mandara Giri Semeru Agung;5
+59;Makam Habib Sholeh Tanggul;5
+59;Lippo Plaza;4
+59;Jember Roxy Square;4,395061728
+59;Makam KH Muhammad Shidiq;5
+59;Masjid Jami' Al-Baitul Amien;5
+59;Masjid Muhammad Cheng Hoo;5
+59;Dira Kencong Shopping Center;5
+59;Rumah Batik Rolla;5
+59;Transmart Jember;5
+59;Jember Town Square;5
+60;Gunung Argopuro;3,592592593
+60;Gunung Papuma;3,592592593
+60;Kebun Teh Gunung Gambir;4,382716049
+60;Air Terjun Tancak;4,024691358
+60;Wisata Pinus Sidomulyo;4,814814815
+60;Teluk Love;4,382716049
+60;Trans Studio Mini;4,185185185
+60;Gas Adventure Land;3,777777778
+60;Kidzoona Lipoo Plaza;3,382716049
+60;Jember Mini ZOO;4,172839506
+60;Gudeg Lumintu;4,395061728
+60;Cafe Kolong;4,209876543
+60;Restoran Pawon Sari;3,802469136
+60;Alun-alun Jember Foodcourt;4,197530864
+60;Pura Mandara Giri Semeru Agung;4,790123457
+60;Makam Habib Sholeh Tanggul;4,395061728
+60;Lippo Plaza;4,197530864
+60;Jember Roxy Square;4,604938272
+60;Makam KH Muhammad Shidiq;4,604938272
+60;Masjid Jami' Al-Baitul Amien;4,604938272
+60;Masjid Muhammad Cheng Hoo;4,802469136
+60;Dira Kencong Shopping Center;4,617283951
+60;Rumah Batik Rolla;4,407407407
+60;Transmart Jember;4,382716049
+60;Jember Town Square;4,802469136
+61;Gunung Argopuro;5
+61;Gunung Papuma;4,802469136
+61;Kebun Teh Gunung Gambir;1
+61;Air Terjun Tancak;4,790123457
+61;Wisata Pinus Sidomulyo;1,975308642
+61;Teluk Love;1
+61;Trans Studio Mini;2,617283951
+61;Gas Adventure Land;1
+61;Kidzoona Lipoo Plaza;3,037037037
+61;Jember Mini ZOO;3
+61;Gudeg Lumintu;3,641975309
+61;Cafe Kolong;3,395061728
+61;Restoran Pawon Sari;1
+61;Alun-alun Jember Foodcourt;3,209876543
+61;Pura Mandara Giri Semeru Agung;5
+61;Makam Habib Sholeh Tanggul;5
+61;Lippo Plaza;2,382716049
+61;Jember Roxy Square;2,765432099
+61;Makam KH Muhammad Shidiq;5
+61;Masjid Jami' Al-Baitul Amien;2,407407407
+61;Masjid Muhammad Cheng Hoo;5
+61;Dira Kencong Shopping Center;5
+61;Rumah Batik Rolla;5
+61;Transmart Jember;1,592592593
+61;Jember Town Square;3,827160494
+62;Gunung Argopuro;3
+62;Gunung Papuma;3,592592593
+62;Kebun Teh Gunung Gambir;3,62962963
+62;Air Terjun Tancak;3,641975309
+62;Wisata Pinus Sidomulyo;3,197530864
+62;Teluk Love;3,604938272
+62;Trans Studio Mini;3,395061728
+62;Gas Adventure Land;3,407407407
+62;Kidzoona Lipoo Plaza;3,407407407
+62;Jember Mini ZOO;3,604938272
+62;Gudeg Lumintu;3,395061728
+62;Cafe Kolong;3,617283951
+62;Restoran Pawon Sari;3,604938272
+62;Alun-alun Jember Foodcourt;3,592592593
+62;Pura Mandara Giri Semeru Agung;2,814814815
+62;Makam Habib Sholeh Tanggul;3,197530864
+62;Lippo Plaza;2,790123457
+62;Jember Roxy Square;2,814814815
+62;Makam KH Muhammad Shidiq;3,185185185
+62;Masjid Jami' Al-Baitul Amien;3,172839506
+62;Masjid Muhammad Cheng Hoo;2,987654321
+62;Dira Kencong Shopping Center;2
+62;Rumah Batik Rolla;2
+62;Transmart Jember;3,185185185
+62;Jember Town Square;3
+63;Gunung Argopuro;4,407407407
+63;Gunung Papuma;4,419753086
+63;Kebun Teh Gunung Gambir;4,419753086
+63;Air Terjun Tancak;4,209876543
+63;Wisata Pinus Sidomulyo;4,209876543
+63;Teluk Love;4,604938272
+63;Trans Studio Mini;4
+63;Gas Adventure Land;3,592592593
+63;Kidzoona Lipoo Plaza;4,209876543
+63;Jember Mini ZOO;4,604938272
+63;Gudeg Lumintu;4,209876543
+63;Cafe Kolong;4
+63;Restoran Pawon Sari;4
+63;Alun-alun Jember Foodcourt;3,777777778
+63;Pura Mandara Giri Semeru Agung;5
+63;Makam Habib Sholeh Tanggul;4,604938272
+63;Lippo Plaza;4,209876543
+63;Jember Roxy Square;4,209876543
+63;Makam KH Muhammad Shidiq;4,209876543
+63;Masjid Jami' Al-Baitul Amien;4,209876543
+63;Masjid Muhammad Cheng Hoo;4,209876543
+63;Dira Kencong Shopping Center;3,62962963
+63;Rumah Batik Rolla;4,209876543
+63;Transmart Jember;4,209876543
+63;Jember Town Square;4,407407407
+64;Gunung Argopuro;4,024691358
+64;Gunung Papuma;4
+64;Kebun Teh Gunung Gambir;4,802469136
+64;Air Terjun Tancak;4,012345679
+64;Wisata Pinus Sidomulyo;4,407407407
+64;Teluk Love;4,419753086
+64;Trans Studio Mini;5
+64;Gas Adventure Land;4,592592593
+64;Kidzoona Lipoo Plaza;4,382716049
+64;Jember Mini ZOO;4,592592593
+64;Gudeg Lumintu;4
+64;Cafe Kolong;4
+64;Restoran Pawon Sari;4,382716049
+64;Alun-alun Jember Foodcourt;4,382716049
+64;Pura Mandara Giri Semeru Agung;4,419753086
+64;Makam Habib Sholeh Tanggul;4,802469136
+64;Lippo Plaza;4,604938272
+64;Jember Roxy Square;4,592592593
+64;Makam KH Muhammad Shidiq;4,419753086
+64;Masjid Jami' Al-Baitul Amien;4,604938272
+64;Masjid Muhammad Cheng Hoo;4,395061728
+64;Dira Kencong Shopping Center;4,209876543
+64;Rumah Batik Rolla;4,209876543
+64;Transmart Jember;5
+64;Jember Town Square;4,395061728
+65;Gunung Argopuro;5
+65;Gunung Papuma;5
+65;Kebun Teh Gunung Gambir;5
+65;Air Terjun Tancak;5
+65;Wisata Pinus Sidomulyo;5
+65;Teluk Love;5
+65;Trans Studio Mini;5
+65;Gas Adventure Land;5
+65;Kidzoona Lipoo Plaza;5
+65;Jember Mini ZOO;5
+65;Gudeg Lumintu;5
+65;Cafe Kolong;5
+65;Restoran Pawon Sari;5
+65;Alun-alun Jember Foodcourt;5
+65;Pura Mandara Giri Semeru Agung;5
+65;Makam Habib Sholeh Tanggul;4,160493827
+65;Lippo Plaza;5
+65;Jember Roxy Square;5
+65;Makam KH Muhammad Shidiq;5
+65;Masjid Jami' Al-Baitul Amien;5
+65;Masjid Muhammad Cheng Hoo;5
+65;Dira Kencong Shopping Center;5
+65;Rumah Batik Rolla;5
+65;Transmart Jember;5
+65;Jember Town Square;5
+66;Gunung Argopuro;5
+66;Gunung Papuma;4,580246914
+66;Kebun Teh Gunung Gambir;4,617283951
+66;Air Terjun Tancak;3,37037037
+66;Wisata Pinus Sidomulyo;4,382716049
+66;Teluk Love;4,604938272
+66;Trans Studio Mini;4,580246914
+66;Gas Adventure Land;4,580246914
+66;Kidzoona Lipoo Plaza;4,580246914
+66;Jember Mini ZOO;4,790123457
+66;Gudeg Lumintu;4,407407407
+66;Cafe Kolong;4,407407407
+66;Restoran Pawon Sari;4,790123457
+66;Alun-alun Jember Foodcourt;5
+66;Pura Mandara Giri Semeru Agung;4,592592593
+66;Makam Habib Sholeh Tanggul;4,790123457
+66;Lippo Plaza;5
+66;Jember Roxy Square;4,580246914
+66;Makam KH Muhammad Shidiq;4,790123457
+66;Masjid Jami' Al-Baitul Amien;4,209876543
+66;Masjid Muhammad Cheng Hoo;4,592592593
+66;Dira Kencong Shopping Center;4,814814815
+66;Rumah Batik Rolla;5
+66;Transmart Jember;4,407407407
+66;Jember Town Square;4,790123457
+67;Gunung Argopuro;2,382716049
+67;Gunung Papuma;3,395061728
+67;Kebun Teh Gunung Gambir;5
+67;Air Terjun Tancak;4,209876543
+67;Wisata Pinus Sidomulyo;4,209876543
+67;Teluk Love;3,209876543
+67;Trans Studio Mini;4,580246914
+67;Gas Adventure Land;3,765432099
+67;Kidzoona Lipoo Plaza;4,580246914
+67;Jember Mini ZOO;4,790123457
+67;Gudeg Lumintu;4,37037037
+67;Cafe Kolong;4,790123457
+67;Restoran Pawon Sari;4,580246914
+67;Alun-alun Jember Foodcourt;4,790123457
+67;Pura Mandara Giri Semeru Agung;4,790123457
+67;Makam Habib Sholeh Tanggul;5
+67;Lippo Plaza;5
+67;Jember Roxy Square;5
+67;Makam KH Muhammad Shidiq;4,790123457
+67;Masjid Jami' Al-Baitul Amien;5
+67;Masjid Muhammad Cheng Hoo;5
+67;Dira Kencong Shopping Center;5
+67;Rumah Batik Rolla;5
+67;Transmart Jember;5
+67;Jember Town Square;4,790123457
+68;Gunung Argopuro;4,617283951
+68;Gunung Papuma;4,617283951
+68;Kebun Teh Gunung Gambir;4,617283951
+68;Air Terjun Tancak;4,419753086
+68;Wisata Pinus Sidomulyo;4,617283951
+68;Teluk Love;4,617283951
+68;Trans Studio Mini;4,790123457
+68;Gas Adventure Land;4,790123457
+68;Kidzoona Lipoo Plaza;4,790123457
+68;Jember Mini ZOO;5
+68;Gudeg Lumintu;4,790123457
+68;Cafe Kolong;4,580246914
+68;Restoran Pawon Sari;4,790123457
+68;Alun-alun Jember Foodcourt;4
+68;Pura Mandara Giri Semeru Agung;4,790123457
+68;Makam Habib Sholeh Tanggul;5
+68;Lippo Plaza;5
+68;Jember Roxy Square;4,790123457
+68;Makam KH Muhammad Shidiq;5
+68;Masjid Jami' Al-Baitul Amien;5
+68;Masjid Muhammad Cheng Hoo;5
+68;Dira Kencong Shopping Center;5
+68;Rumah Batik Rolla;5
+68;Transmart Jember;4,802469136
+68;Jember Town Square;4,580246914
+69;Gunung Argopuro;3,419753086
+69;Gunung Papuma;3,802469136
+69;Kebun Teh Gunung Gambir;4,012345679
+69;Air Terjun Tancak;3,827160494
+69;Wisata Pinus Sidomulyo;3,419753086
+69;Teluk Love;4,395061728
+69;Trans Studio Mini;4,37037037
+69;Gas Adventure Land;4,209876543
+69;Kidzoona Lipoo Plaza;4,197530864
+69;Jember Mini ZOO;4,419753086
+69;Gudeg Lumintu;3,987654321
+69;Cafe Kolong;3,592592593
+69;Restoran Pawon Sari;3,617283951
+69;Alun-alun Jember Foodcourt;4,790123457
+69;Pura Mandara Giri Semeru Agung;4,209876543
+69;Makam Habib Sholeh Tanggul;5
+69;Lippo Plaza;5
+69;Jember Roxy Square;5
+69;Makam KH Muhammad Shidiq;4,209876543
+69;Masjid Jami' Al-Baitul Amien;4,419753086
+69;Masjid Muhammad Cheng Hoo;4,419753086
+69;Dira Kencong Shopping Center;5
+69;Rumah Batik Rolla;5
+69;Transmart Jember;5
+69;Jember Town Square;5
+70;Gunung Argopuro;3,617283951
+70;Gunung Papuma;3,209876543
+70;Kebun Teh Gunung Gambir;3,209876543
+70;Air Terjun Tancak;3,209876543
+70;Wisata Pinus Sidomulyo;3,419753086
+70;Teluk Love;3,209876543
+70;Trans Studio Mini;4
+70;Gas Adventure Land;3,790123457
+70;Kidzoona Lipoo Plaza;4
+70;Jember Mini ZOO;4
+70;Gudeg Lumintu;3,604938272
+70;Cafe Kolong;3,802469136
+70;Restoran Pawon Sari;3,407407407
+70;Alun-alun Jember Foodcourt;3,617283951
+70;Pura Mandara Giri Semeru Agung;3,802469136
+70;Makam Habib Sholeh Tanggul;4
+70;Lippo Plaza;4
+70;Jember Roxy Square;4
+70;Makam KH Muhammad Shidiq;4,012345679
+70;Masjid Jami' Al-Baitul Amien;4
+70;Masjid Muhammad Cheng Hoo;3,802469136
+70;Dira Kencong Shopping Center;4,209876543
+70;Rumah Batik Rolla;3,802469136
+70;Transmart Jember;4
+70;Jember Town Square;4
+71;Gunung Argopuro;4
+71;Gunung Papuma;3,814814815
+71;Kebun Teh Gunung Gambir;4,024691358
+71;Air Terjun Tancak;4,209876543
+71;Wisata Pinus Sidomulyo;4,222222222
+71;Teluk Love;4,407407407
+71;Trans Studio Mini;4,197530864
+71;Gas Adventure Land;3,790123457
+71;Kidzoona Lipoo Plaza;4,197530864
+71;Jember Mini ZOO;4,209876543
+71;Gudeg Lumintu;4,172839506
+71;Cafe Kolong;3,987654321
+71;Restoran Pawon Sari;3,358024691
+71;Alun-alun Jember Foodcourt;4,172839506
+71;Pura Mandara Giri Semeru Agung;4,407407407
+71;Makam Habib Sholeh Tanggul;4,407407407
+71;Lippo Plaza;4,209876543
+71;Jember Roxy Square;4,790123457
+71;Makam KH Muhammad Shidiq;4,395061728
+71;Masjid Jami' Al-Baitul Amien;4,592592593
+71;Masjid Muhammad Cheng Hoo;4,209876543
+71;Dira Kencong Shopping Center;4,209876543
+71;Rumah Batik Rolla;4,604938272
+71;Transmart Jember;4,617283951
+71;Jember Town Square;4,592592593
+72;Gunung Argopuro;3,790123457
+72;Gunung Papuma;3,160493827
+72;Kebun Teh Gunung Gambir;4,012345679
+72;Air Terjun Tancak;4,197530864
+72;Wisata Pinus Sidomulyo;3,62962963
+72;Teluk Love;0
+72;Trans Studio Mini;4,172839506
+72;Gas Adventure Land;3,592592593
+72;Kidzoona Lipoo Plaza;3,395061728
+72;Jember Mini ZOO;3,75308642
+72;Gudeg Lumintu;3,987654321
+72;Cafe Kolong;3
+72;Restoran Pawon Sari;4,172839506
+72;Alun-alun Jember Foodcourt;3,197530864
+72;Pura Mandara Giri Semeru Agung;4,395061728
+72;Makam Habib Sholeh Tanggul;3,777777778
+72;Lippo Plaza;3,827160494
+72;Jember Roxy Square;4,382716049
+72;Makam KH Muhammad Shidiq;4,790123457
+72;Masjid Jami' Al-Baitul Amien;3,197530864
+72;Masjid Muhammad Cheng Hoo;3,580246914
+72;Dira Kencong Shopping Center;4,395061728
+72;Rumah Batik Rolla;4,012345679
+72;Transmart Jember;4,209876543
+72;Jember Town Square;3,604938272
+73;Gunung Argopuro;4,604938272
+73;Gunung Papuma;4,419753086
+73;Kebun Teh Gunung Gambir;4,592592593
+73;Air Terjun Tancak;4,407407407
+73;Wisata Pinus Sidomulyo;4,407407407
+73;Teluk Love;4,419753086
+73;Trans Studio Mini;4,580246914
+73;Gas Adventure Land;4,580246914
+73;Kidzoona Lipoo Plaza;4,790123457
+73;Jember Mini ZOO;5
+73;Gudeg Lumintu;4,592592593
+73;Cafe Kolong;4,382716049
+73;Restoran Pawon Sari;4,382716049
+73;Alun-alun Jember Foodcourt;4,790123457
+73;Pura Mandara Giri Semeru Agung;4,592592593
+73;Makam Habib Sholeh Tanggul;4,592592593
+73;Lippo Plaza;4,802469136
+73;Jember Roxy Square;4,802469136
+73;Makam KH Muhammad Shidiq;4,592592593
+73;Masjid Jami' Al-Baitul Amien;4,592592593
+73;Masjid Muhammad Cheng Hoo;4,802469136
+73;Dira Kencong Shopping Center;4,592592593
+73;Rumah Batik Rolla;4,592592593
+73;Transmart Jember;4,592592593
+73;Jember Town Square;4,802469136
+74;Gunung Argopuro;4
+74;Gunung Papuma;3,987654321
+74;Kebun Teh Gunung Gambir;4,209876543
+74;Air Terjun Tancak;4
+74;Wisata Pinus Sidomulyo;4
+74;Teluk Love;4
+74;Trans Studio Mini;4
+74;Gas Adventure Land;4
+74;Kidzoona Lipoo Plaza;0
+74;Jember Mini ZOO;4
+74;Gudeg Lumintu;4
+74;Cafe Kolong;4,197530864
+74;Restoran Pawon Sari;3,790123457
+74;Alun-alun Jember Foodcourt;3,802469136
+74;Pura Mandara Giri Semeru Agung;4
+74;Makam Habib Sholeh Tanggul;4
+74;Lippo Plaza;3,382716049
+74;Jember Roxy Square;4
+74;Makam KH Muhammad Shidiq;4
+74;Masjid Jami' Al-Baitul Amien;4
+74;Masjid Muhammad Cheng Hoo;4
+74;Dira Kencong Shopping Center;4
+74;Rumah Batik Rolla;3,802469136
+74;Transmart Jember;4
+74;Jember Town Square;4
+75;Gunung Argopuro;3,604938272
+75;Gunung Papuma;3,790123457
+75;Kebun Teh Gunung Gambir;0,839506173
+75;Air Terjun Tancak;0,839506173
+75;Wisata Pinus Sidomulyo;0,839506173
+75;Teluk Love;1,049382716
+75;Trans Studio Mini;0,62962963
+75;Gas Adventure Land;0,62962963
+75;Kidzoona Lipoo Plaza;0,419753086
+75;Jember Mini ZOO;0,839506173
+75;Gudeg Lumintu;1,049382716
+75;Cafe Kolong;0,62962963
+75;Restoran Pawon Sari;0,62962963
+75;Alun-alun Jember Foodcourt;0,62962963
+75;Pura Mandara Giri Semeru Agung;1,049382716
+75;Makam Habib Sholeh Tanggul;1,049382716
+75;Lippo Plaza;0,839506173
+75;Jember Roxy Square;0,839506173
+75;Makam KH Muhammad Shidiq;1,049382716
+75;Masjid Jami' Al-Baitul Amien;5
+75;Masjid Muhammad Cheng Hoo;5
+75;Dira Kencong Shopping Center;0,62962963
+75;Rumah Batik Rolla;1,259259259
+75;Transmart Jember;4,012345679
+75;Jember Town Square;4,012345679
+76;Gunung Argopuro;4,234567901
+76;Gunung Papuma;3,827160494
+76;Kebun Teh Gunung Gambir;3,790123457
+76;Air Terjun Tancak;3,580246914
+76;Wisata Pinus Sidomulyo;3,962962963
+76;Teluk Love;4,407407407
+76;Trans Studio Mini;4,580246914
+76;Gas Adventure Land;2,962962963
+76;Kidzoona Lipoo Plaza;3,802469136
+76;Jember Mini ZOO;3,790123457
+76;Gudeg Lumintu;4
+76;Cafe Kolong;3,395061728
+76;Restoran Pawon Sari;4,172839506
+76;Alun-alun Jember Foodcourt;4
+76;Pura Mandara Giri Semeru Agung;3,580246914
+76;Makam Habib Sholeh Tanggul;4
+76;Lippo Plaza;3,407407407
+76;Jember Roxy Square;4
+76;Makam KH Muhammad Shidiq;5
+76;Masjid Jami' Al-Baitul Amien;5
+76;Masjid Muhammad Cheng Hoo;5
+76;Dira Kencong Shopping Center;5
+76;Rumah Batik Rolla;5
+76;Transmart Jember;3,790123457
+76;Jember Town Square;3,777777778
+77;Gunung Argopuro;3,419753086
+77;Gunung Papuma;3
+77;Kebun Teh Gunung Gambir;3,419753086
+77;Air Terjun Tancak;3,407407407
+77;Wisata Pinus Sidomulyo;3,604938272
+77;Teluk Love;3,419753086
+77;Trans Studio Mini;4,172839506
+77;Gas Adventure Land;3,185185185
+77;Kidzoona Lipoo Plaza;4
+77;Jember Mini ZOO;3,617283951
+77;Gudeg Lumintu;3,580246914
+77;Cafe Kolong;3,580246914
+77;Restoran Pawon Sari;4,012345679
+77;Alun-alun Jember Foodcourt;3,975308642
+77;Pura Mandara Giri Semeru Agung;3,604938272
+77;Makam Habib Sholeh Tanggul;3,802469136
+77;Lippo Plaza;4,617283951
+77;Jember Roxy Square;4
+77;Makam KH Muhammad Shidiq;3,592592593
+77;Masjid Jami' Al-Baitul Amien;4,209876543
+77;Masjid Muhammad Cheng Hoo;3,802469136
+77;Dira Kencong Shopping Center;3,802469136
+77;Rumah Batik Rolla;4
+77;Transmart Jember;4,185185185
+77;Jember Town Square;4,407407407
+78;Gunung Argopuro;4
+78;Gunung Papuma;4,197530864
+78;Kebun Teh Gunung Gambir;4,395061728
+78;Air Terjun Tancak;4,012345679
+78;Wisata Pinus Sidomulyo;4,209876543
+78;Teluk Love;4,209876543
+78;Trans Studio Mini;4,790123457
+78;Gas Adventure Land;4,580246914
+78;Kidzoona Lipoo Plaza;3,802469136
+78;Jember Mini ZOO;4,580246914
+78;Gudeg Lumintu;3,790123457
+78;Cafe Kolong;3,975308642
+78;Restoran Pawon Sari;4,209876543
+78;Alun-alun Jember Foodcourt;3,592592593
+78;Pura Mandara Giri Semeru Agung;4,012345679
+78;Makam Habib Sholeh Tanggul;4,802469136
+78;Lippo Plaza;5
+78;Jember Roxy Square;5
+78;Makam KH Muhammad Shidiq;4,802469136
+78;Masjid Jami' Al-Baitul Amien;4,802469136
+78;Masjid Muhammad Cheng Hoo;4,617283951
+78;Dira Kencong Shopping Center;4,802469136
+78;Rumah Batik Rolla;4,209876543
+78;Transmart Jember;5
+78;Jember Town Square;4,419753086
+79;Gunung Argopuro;4,197530864
+79;Gunung Papuma;4,395061728
+79;Kebun Teh Gunung Gambir;4,395061728
+79;Air Terjun Tancak;4,407407407
+79;Wisata Pinus Sidomulyo;4,592592593
+79;Teluk Love;4,209876543
+79;Trans Studio Mini;4,209876543
+79;Gas Adventure Land;4,407407407
+79;Kidzoona Lipoo Plaza;4,814814815
+79;Jember Mini ZOO;5
+79;Gudeg Lumintu;4,814814815
+79;Cafe Kolong;4,802469136
+79;Restoran Pawon Sari;4,209876543
+79;Alun-alun Jember Foodcourt;4,802469136
+79;Pura Mandara Giri Semeru Agung;4,395061728
+79;Makam Habib Sholeh Tanggul;4,407407407
+79;Lippo Plaza;4,419753086
+79;Jember Roxy Square;5
+79;Makam KH Muhammad Shidiq;4,592592593
+79;Masjid Jami' Al-Baitul Amien;5
+79;Masjid Muhammad Cheng Hoo;5
+79;Dira Kencong Shopping Center;5
+79;Rumah Batik Rolla;5
+79;Transmart Jember;5
+79;Jember Town Square;5
+80;Gunung Argopuro;5
+80;Gunung Papuma;0
+80;Kebun Teh Gunung Gambir;4,197530864
+80;Air Terjun Tancak;4
+80;Wisata Pinus Sidomulyo;5
+80;Teluk Love;4,209876543
+80;Trans Studio Mini;0
+80;Gas Adventure Land;5
+80;Kidzoona Lipoo Plaza;0
+80;Jember Mini ZOO;0
+80;Gudeg Lumintu;0
+80;Cafe Kolong;0
+80;Restoran Pawon Sari;0
+80;Alun-alun Jember Foodcourt;0
+80;Pura Mandara Giri Semeru Agung;0
+80;Makam Habib Sholeh Tanggul;0
+80;Lippo Plaza;0
+80;Jember Roxy Square;0
+80;Makam KH Muhammad Shidiq;0
+80;Masjid Jami' Al-Baitul Amien;0
+80;Masjid Muhammad Cheng Hoo;0
+80;Dira Kencong Shopping Center;0
+80;Rumah Batik Rolla;0
+80;Transmart Jember;4,790123457
+80;Jember Town Square;0
+81;Gunung Argopuro;4,037037037
+81;Gunung Papuma;3,827160494
+81;Kebun Teh Gunung Gambir;0
+81;Air Terjun Tancak;0
+81;Wisata Pinus Sidomulyo;0
+81;Teluk Love;4,012345679
+81;Trans Studio Mini;4,790123457
+81;Gas Adventure Land;4,37037037
+81;Kidzoona Lipoo Plaza;4,790123457
+81;Jember Mini ZOO;4,209876543
+81;Gudeg Lumintu;0
+81;Cafe Kolong;0
+81;Restoran Pawon Sari;0
+81;Alun-alun Jember Foodcourt;4,382716049
+81;Pura Mandara Giri Semeru Agung;0
+81;Makam Habib Sholeh Tanggul;0
+81;Lippo Plaza;5
+81;Jember Roxy Square;0
+81;Makam KH Muhammad Shidiq;0
+81;Masjid Jami' Al-Baitul Amien;5
+81;Masjid Muhammad Cheng Hoo;0
+81;Dira Kencong Shopping Center;0
+81;Rumah Batik Rolla;0
+81;Transmart Jember;5
+81;Jember Town Square;5
+82;Gunung Argopuro;4,407407407
+82;Gunung Papuma;4,604938272
+82;Kebun Teh Gunung Gambir;4,790123457
+82;Air Terjun Tancak;5
+82;Wisata Pinus Sidomulyo;4,395061728
+82;Teluk Love;5
+82;Trans Studio Mini;5
+82;Gas Adventure Land;4,814814815
+82;Kidzoona Lipoo Plaza;4,604938272
+82;Jember Mini ZOO;0
+82;Gudeg Lumintu;0
+82;Cafe Kolong;0
+82;Restoran Pawon Sari;0
+82;Alun-alun Jember Foodcourt;0
+82;Pura Mandara Giri Semeru Agung;4,604938272
+82;Makam Habib Sholeh Tanggul;3,407407407
+82;Lippo Plaza;4,012345679
+82;Jember Roxy Square;0
+82;Makam KH Muhammad Shidiq;0
+82;Masjid Jami' Al-Baitul Amien;0
+82;Masjid Muhammad Cheng Hoo;5
+82;Dira Kencong Shopping Center;0
+82;Rumah Batik Rolla;0
+82;Transmart Jember;0
+82;Jember Town Square;0
+83;Gunung Argopuro;3,197530864
+83;Gunung Papuma;3
+83;Kebun Teh Gunung Gambir;2,827160494
+83;Air Terjun Tancak;2,62962963
+83;Wisata Pinus Sidomulyo;2,62962963
+83;Teluk Love;2,839506173
+83;Trans Studio Mini;3,580246914
+83;Gas Adventure Land;3,777777778
+83;Kidzoona Lipoo Plaza;3,592592593
+83;Jember Mini ZOO;3,209876543
+83;Gudeg Lumintu;3
+83;Cafe Kolong;3
+83;Restoran Pawon Sari;3
+83;Alun-alun Jember Foodcourt;3,592592593
+83;Pura Mandara Giri Semeru Agung;3,419753086
+83;Makam Habib Sholeh Tanggul;3,419753086
+83;Lippo Plaza;3,407407407
+83;Jember Roxy Square;3,407407407
+83;Makam KH Muhammad Shidiq;3,62962963
+83;Masjid Jami' Al-Baitul Amien;3,62962963
+83;Masjid Muhammad Cheng Hoo;3,419753086
+83;Dira Kencong Shopping Center;3,222222222
+83;Rumah Batik Rolla;3,419753086
+83;Transmart Jember;3,827160494
+83;Jember Town Square;3,827160494
+84;Gunung Argopuro;3,407407407
+84;Gunung Papuma;3,407407407
+84;Kebun Teh Gunung Gambir;3,407407407
+84;Air Terjun Tancak;3,641975309
+84;Wisata Pinus Sidomulyo;3
+84;Teluk Love;3
+84;Trans Studio Mini;3,790123457
+84;Gas Adventure Land;3,172839506
+84;Kidzoona Lipoo Plaza;3,37037037
+84;Jember Mini ZOO;4,197530864
+84;Gudeg Lumintu;3
+84;Cafe Kolong;3
+84;Restoran Pawon Sari;3
+84;Alun-alun Jember Foodcourt;3,790123457
+84;Pura Mandara Giri Semeru Agung;4,012345679
+84;Makam Habib Sholeh Tanggul;3,419753086
+84;Lippo Plaza;3
+84;Jember Roxy Square;2,790123457
+84;Makam KH Muhammad Shidiq;4,012345679
+84;Masjid Jami' Al-Baitul Amien;4,012345679
+84;Masjid Muhammad Cheng Hoo;4
+84;Dira Kencong Shopping Center;3
+84;Rumah Batik Rolla;3,419753086
+84;Transmart Jember;4,209876543
+84;Jember Town Square;3,197530864
